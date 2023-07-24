@@ -1,3 +1,3 @@
-module github.com/Monishparameswaran/mylib
+module github.com/Monishparameswaran/Go_lib
 
 go 1.20
